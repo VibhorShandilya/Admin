@@ -1,4 +1,4 @@
-Dummy Project
+
 export let FashionSchema = [
   {
     Section1: [
